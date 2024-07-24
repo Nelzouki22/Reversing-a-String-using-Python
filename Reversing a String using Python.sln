@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reversing a String using Python", "Reversing a String using Python.pyproj", "{EE0DEC1A-8305-40FB-8B9E-5C8079FE7AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0DEC1A-8305-40FB-8B9E-5C8079FE7AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0DEC1A-8305-40FB-8B9E-5C8079FE7AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43DEC327-8819-41E7-B6C0-23CB5C238C35}
+	EndGlobalSection
+EndGlobal
